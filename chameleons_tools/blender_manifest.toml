@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "chameleons_tools"
+version = "0.1.0"
+name = "Chameleons Tools"
+tagline = "Block out, sculpt, rig and pose creature models"
+maintainer = "nsheers13"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
